@@ -1,5 +1,5 @@
-# LocalHackDay
-:octocat: Participants' Projects Local Hack Day 2018
+# LocalHackDay 2018 
+
 
 
 
