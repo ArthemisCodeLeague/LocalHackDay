@@ -1,4 +1,4 @@
-# LocalHackDay 2018 
+# LocalHackDay
 
 <p>
     <img src="https://github.com/ArthemisCodeLeague/LocalHackDay/blob/master/2018/Imagens/arthemis.jpeg" width="350" align="left">
